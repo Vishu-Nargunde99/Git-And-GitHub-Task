@@ -62,7 +62,7 @@ Lets start first to clone our repository on local machine.
 
 ![project screenshot](/Images/clone%20repo.png)
 
-Here you can you as 
+Here you can see as 
 1. Go to "Git-Practice-task"
 2. click on code 
 3. Copy the HTTP URL for cloning.
