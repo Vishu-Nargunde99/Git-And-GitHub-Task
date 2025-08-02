@@ -23,7 +23,7 @@ It’s widely used by individuals and companies for open-source and private proj
 
 Here are the some task I'll done while learning the Git and GitHub
 
-### TASk 1 : Create a New Repository on GitHub
+### TASk 1 : Create a New Repository on GitHub
 - Name it:  git-practice-task
 - Initialize with a README.md
 
@@ -192,7 +192,7 @@ Now check the Github there is "Comapre and pull" request is pup-up.
 
 - Now go to GitHub and create pull reaquest of feature-B branch.
 
-### TASK 7 :  Merge One PR First (feature-A-Merge)
+### TASK 7 : Merge One PR First (feature-A-Merge)
 - Merge feature-A pull request on GitHub.
 
 Ok go to Github --> select repo --> click on "pull request" --> click on request from feature-A --> Merge the request. 
@@ -204,6 +204,7 @@ Ok go to Github --> select repo --> click on "pull request" --> click on request
 Got to GitHub --> select your repo --> click on pull request --> select PR from feature-B
 
 Now when you have to merge is on notification is **"Resolve Conflict"**
+
 ![project screenshot](/Images/conflic.PNG)
 
 ### TASK 9 : Resolve the Conflict And Complete the Merge
